@@ -5147,7 +5147,7 @@ Katie Moar
 - [Brian Kliwon](https://github.com/briankliwon)
 - [Moirangthem Gelson Singh](https://github.com/gelsonm)
 - [Andrea Lombardo]
-Alonzo Church
+Alonzo Church 2
 - [Jamaludin Abdi](https://github.com/jamaludin-abdi)
 - [Tomasz Misiukiewicz](https://github.com/TMisiukiewicz)
 - [Danny Gomes](https://github.com/dannygomes)
